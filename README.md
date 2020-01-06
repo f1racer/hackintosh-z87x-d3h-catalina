@@ -16,7 +16,7 @@ Clover EFI bootloader<br>
 Clover configurator<br>
 <br>
 
-Install Notes:<br><br>
+Install notes:<br><br>
 - Download Catalina from App store<br>
 - Erase USB stick, name it INSTALLER, format with GUID scheme<br>
 - Run: sudo "/Applications/Install macOS Catalina.app/Contents/Resources/createinstallmedia" --volume /Volumes/INSTALLER<br>
@@ -34,4 +34,13 @@ WhateverGreen.kext<br><br>
 - reboot a couple times, pick USB stick, preloader<br>
 - Clover EFI bootloader (install to SSD)<br>
 - Copy EFI from USB to SSD (using clover configurator)<br>
+
+Other notes:<br><br>
+I didn't really need to tweak much.  This setup is for FCPX video editing, Adobe Lightroom/Photoshop and misc other things you do with a computer.  I installed steam and play games everynow and then like F1 2017, Grid Autosport, Hearthstone, Pokemon TCG.  
+<br>
+- WiFi/Bluetooth works
+- Audio through HDMI works
+- not sure about sleep/hibernation since my hackintosh is on 24/7.
+- I don't imessage/handoff/continuity so not sure if that works (have Android phone)
+
 
