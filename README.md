@@ -48,11 +48,10 @@ WhateverGreen.kext<br><br>
 - Copy EFI from USB to SSD (using clover configurator)<br>
 
 Other notes:<br>
-I didn't really need to tweak much.  This setup is for FCPX video editing, Adobe Lightroom/Photoshop and misc other things you do with a computer.  I installed steam and play games everynow and then like F1 2017, Grid Autosport, Hearthstone, Pokemon TCG.  
+I didn't really need to tweak much.  This setup is for FCPX video editing, Adobe Lightroom/Photoshop and misc other things you do with a computer.  I installed Steam and play games every now and then like F1 2017, Grid Autosport, Hearthstone, Pokemon TCG.  
 <br>
 - WiFi/Bluetooth works
 - Audio through HDMI works
-- not sure about sleep/hibernation since my hackintosh is on 24/7.
-- I don't imessage/handoff/continuity so not sure if that works (have Android phone)
-
-
+- not sure about sleep/hibernation since my Hackintosh is on 24/7.
+- I don't use imessage/handoff/continuity so not sure if that works (have Android phone)
+- Sidecar for sure doesn't work since it's not supported until Skylake and iMacs 17,1 and up.  
