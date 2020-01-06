@@ -21,12 +21,13 @@ Install notes:<br>
 - Erase USB stick, name it INSTALLER, format with GUID scheme<br>
 - Run: sudo "/Applications/Install macOS Catalina.app/Contents/Resources/createinstallmedia" --volume /Volumes/INSTALLER<br>
 - Clover EFI bootloader (install to USB stick)<br>
-UEFI Drivers<br>
+
+- UEFI Drivers<br>
 ApfsDriverLoader<br>
 AptioMemoryFix<br>
 HPFSPlus<br>
 
-File System drivers<br>
+- File System drivers<br>
 Fat<br>
 VBoxHFS<br>
 
