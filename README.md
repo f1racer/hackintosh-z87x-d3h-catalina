@@ -21,7 +21,18 @@ Install notes:<br>
 - Erase USB stick, name it INSTALLER, format with GUID scheme<br>
 - Run: sudo "/Applications/Install macOS Catalina.app/Contents/Resources/createinstallmedia" --volume /Volumes/INSTALLER<br>
 - Clover EFI bootloader (install to USB stick)<br>
-- Clover configurator (KEXT installer)<br>
+UEFI Drivers<br>
+ApfsDriverLoader<br>
+AptioMemoryFix<br>
+HPFSPlus<br>
+
+File System drivers<br>
+Fat<br>
+VBoxHFS<br>
+
+- config.plist for Haswell (15,1) (https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/config.plist-per-hardware/haswell)<br>
+
+- Use Clover configurator (KEXT installer) to download/install to Clover/Other folder on EFI partition<br>
 USBInjectAll.kext<br>
 AppleALC.kext<br>
 IntelMausi.kext<br>
@@ -29,7 +40,7 @@ Lilu.kext<br>
 NoVPAJpeg.kext<br>
 VirtualSMC.kext<br>
 WhateverGreen.kext<br><br>
-- config.plist for Haswell (https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/config.plist-per-hardware/haswell)<br>
+
 - Use USB stick to install OSX, F12 choose USB stick<br>
 - reboot a couple times, pick USB stick, preloader<br>
 - Clover EFI bootloader (install to SSD)<br>
