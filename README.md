@@ -16,7 +16,7 @@ Clover EFI bootloader<br>
 Clover configurator<br>
 <br>
 
-Install notes:<br><br>
+Install notes:<br>
 - Download Catalina from App store<br>
 - Erase USB stick, name it INSTALLER, format with GUID scheme<br>
 - Run: sudo "/Applications/Install macOS Catalina.app/Contents/Resources/createinstallmedia" --volume /Volumes/INSTALLER<br>
