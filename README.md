@@ -1,4 +1,5 @@
-# hackintosh-catalina-2019
+# hackintosh-2019-12-30-catalina
+
 2019-12-30 Catalina 10.15.2
 
 This is my most current Hackintosh with parts that I bought back in 2014.  Since then I have updated macOS many times.  Catalina being the most recent.  I used the vanilla method. 
