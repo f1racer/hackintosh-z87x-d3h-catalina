@@ -16,7 +16,7 @@ Clover EFI bootloader<br>
 Clover configurator<br>
 <br>
 
-Notes:<br><br>
+Install Notes:<br><br>
 
 - Download Catalina from App store<br>
 - Erase USB stick, name it INSTALLER, format with GUID scheme<br>
