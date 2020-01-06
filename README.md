@@ -3,17 +3,18 @@
 
 This is my most current Hackintosh with parts that I bought back in 2014.  Since then I have updated macOS many times.  Catalina being the most recent.  I used the vanilla method. 
 
-Hardware:
-Gigabyte Z87X-D3H
-Intel Core i5 4670K (Haswell)
-32GB DDR3 RAM
-MSI AMD Radeon RX 570 GFX
-Sony 49XBRX700D 4K TV
-Fenvi T919 (WiFi/Bluetooth)
+Hardware:<br>
+Gigabyte Z87X-D3H<br>
+Intel Core i5 4670K (Haswell)<br>
+32GB DDR3 RAM<br>
+MSI AMD Radeon RX 570 GFX<br>
+Sony 49XBRX700D 4K TV<br>
+Fenvi T919 (WiFi/Bluetooth)<br><br>
 
-Tools:
-Clover EFI bootloader
-Clover configurator
+Tools:<br>
+Clover EFI bootloader<br>
+Clover configurator<br>
+<br>
 
 Notes:
 
