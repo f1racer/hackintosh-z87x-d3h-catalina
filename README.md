@@ -9,7 +9,7 @@ Intel Core i5 4670K (Haswell)<br>
 32GB DDR3 RAM<br>
 MSI AMD Radeon RX 570 GFX<br>
 Sony 49XBRX700D 4K TV<br>
-Fenvi T919 (WiFi/Bluetooth)<br><br>
+Fenvi T919 (WiFi/Bluetooth)<br>
 
 Tools:<br>
 Clover EFI bootloader<br>
@@ -21,7 +21,7 @@ Install notes:<br><br>
 - Erase USB stick, name it INSTALLER, format with GUID scheme<br>
 - Run: sudo "/Applications/Install macOS Catalina.app/Contents/Resources/createinstallmedia" --volume /Volumes/INSTALLER<br>
 - Clover EFI bootloader (install to USB stick)<br>
-- Clover configurator (KEXT installer)<br><br>
+- Clover configurator (KEXT installer)<br>
 USBInjectAll.kext<br>
 AppleALC.kext<br>
 IntelMausi.kext<br>
@@ -35,7 +35,7 @@ WhateverGreen.kext<br><br>
 - Clover EFI bootloader (install to SSD)<br>
 - Copy EFI from USB to SSD (using clover configurator)<br>
 
-Other notes:<br><br>
+Other notes:<br>
 I didn't really need to tweak much.  This setup is for FCPX video editing, Adobe Lightroom/Photoshop and misc other things you do with a computer.  I installed steam and play games everynow and then like F1 2017, Grid Autosport, Hearthstone, Pokemon TCG.  
 <br>
 - WiFi/Bluetooth works
