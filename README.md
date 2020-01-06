@@ -2,7 +2,7 @@
 
 2019-12-30 Catalina 10.15.2
 
-This is my most current Hackintosh with parts that I bought back in 2014.  Since then I have updated macOS many times.  Catalina being the most recent.  I used the vanilla method. 
+This is my most current Hackintosh with parts that I bought back in 2014.  Since then I have updated macOS many times.  Catalina being the most recent.  I used the vanilla method. I did initially have issues booting into the installer but once I got a correct config.plist and it was smooth sailing.  
 
 Hardware:<br>
 Gigabyte Z87X-D3H<br>
@@ -51,9 +51,9 @@ WhateverGreen.kext<br><br>
 Other notes:<br>
 I didn't really need to tweak much.  This setup is for FCPX video editing, Adobe Lightroom/Photoshop and misc other things you do with a computer.  I installed Steam and play games every now and then like F1 2017, Grid Autosport, Hearthstone, Pokemon TCG.  
 <br>
-- WiFi/Bluetooth works
+- WiFi/Bluetooth works (Fenvi T919)
 - Audio through HDMI works
 - 3840x2160 @ 60Hz via HDMI to my Sony TV
-- not sure about sleep/hibernation since my Hackintosh is on 24/7.
+- not sure about sleep/hibernation since my Hackintosh is on 24/7, and I don't put it to sleep
 - I don't use imessage/handoff/continuity so not sure if that works (have Android phone)
-- Sidecar for sure doesn't work since it's not supported until Skylake and iMacs 17,1 and up.  
+- Sidecar for sure doesn't work since it's not supported until Skylake and iMacs 17,1 and up
