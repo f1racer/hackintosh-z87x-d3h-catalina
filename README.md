@@ -53,6 +53,7 @@ I didn't really need to tweak much.  This setup is for FCPX video editing, Adobe
 <br>
 - WiFi/Bluetooth works
 - Audio through HDMI works
+- 3840x2160 @ 60Hz via HDMI to my Sony TV
 - not sure about sleep/hibernation since my Hackintosh is on 24/7.
 - I don't use imessage/handoff/continuity so not sure if that works (have Android phone)
 - Sidecar for sure doesn't work since it's not supported until Skylake and iMacs 17,1 and up.  
