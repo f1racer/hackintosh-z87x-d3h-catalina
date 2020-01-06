@@ -23,6 +23,16 @@ Notes:
 
 - Clover EFI bootloader (install to USB stick)
 - Clover configurator (KEXT installer)
+
+USBInjectAll.kext
+AppleALC.kext
+IntelMausi.kext
+Lilu.kext
+NoVPAJpeg.kext
+VirtualSMC.kext
+WhateverGreen.kext
+
+
 - config.plist for Haswell (https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/config.plist-per-hardware/haswell)
 - Use USB stick to install OSX, F12 choose USB stick
 - reboot a couple times, pick USB stick, preloader
