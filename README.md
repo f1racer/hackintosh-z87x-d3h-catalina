@@ -1,6 +1,6 @@
 # hackintosh-2019-12-30-catalina
 
-2019-12-30 Catalina 10.15.2
+2020-09-19 Catalina 10.15.6
 
 This is my most current Hackintosh with parts that I bought back in 2014.  Since then I have updated macOS many times.  Catalina being the most recent.  I used the vanilla method. I did initially have issues booting into the installer but once I got a correct config.plist and it was smooth sailing.  
 
@@ -13,15 +13,17 @@ Sony 49XBRX700D 4K TV<br>
 Fenvi T919 (WiFi/Bluetooth)<br>
 
 Tools:<br>
-Clover EFI bootloader<br>
-Clover configurator<br>
+ Clover EFI bootloader (https://github.com/CloverHackyColor/CloverBootloader/releases)<br>
+ Clover configurator (https://mackie100projects.altervista.org/category/info-cc/)<br>
+
 <br>
 
 Install notes:<br>
-- Download Catalina from App store<br>
-- Erase USB stick, name it INSTALLER, format with GUID scheme<br>
+- Download Catalina 10.15.6 from App store<br>
+- Erase USB stick, name it INSTALLER, format with GUID Partition Map, Mac OS Extended (Journaled)<br>
 - Run: sudo "/Applications/Install macOS Catalina.app/Contents/Resources/createinstallmedia" --volume /Volumes/INSTALLER<br>
-- Clover EFI bootloader (install to USB stick)<br>
+- Clover EFI bootloader (Change install location to USB stick)<br>
+  - Customize<br><br>
 
 - UEFI Drivers<br>
 ApfsDriverLoader<br>
